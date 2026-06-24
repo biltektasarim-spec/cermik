@@ -3,3 +3,8 @@
 firebase-adminsdk*.json
 google-services.json
 *adminsdk*.json
+
+# Gizli Konfigürasyon
+config.php
+*.env
+.env*
