@@ -1,0 +1,5 @@
+j5n4i0y7_u2509838
+Jp32e$h91
+cd httpdocs
+put clean_remote.php
+quit

@@ -1,0 +1,112 @@
+[2026-03-26 21:40:37] SMS Request (Action: google_register):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 163602
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199807345,"status":"success","quantity":9909,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 21:44:24] SMS Request (Action: google_register):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 348032
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199807527,"status":"success","quantity":9908,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-04-04 22:45:19] SMS Request (Action: forgot):
+Phone: 905327104206
+Sender: FREEMIND
+Message: Sifre sifirlama baglantiniz: https://rotarehber.com/api/../password_reset.php?token=c5c8cdbbb4a9e64bbe755c8400bb653889bde2180e77c6e709b461a5b4561758
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":200465319,"status":"success","quantity":9904,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-04-10 06:08:49] SMS Request (Action: quick_login_request):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Giriş Kodunuz: 107983
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":200813682,"status":"success","quantity":9891,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-04-12 05:53:28] SMS Request (Action: forgot):
+Phone: 905327104206
+Sender: FREEMIND
+Message: Şifre sıfırlama kodunuz: 454516
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":200896949,"status":"success","quantity":9888,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-04-12 05:56:49] SMS Request (Action: quick_login_request):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Giriş Kodunuz: 410772
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":200897042,"status":"success","quantity":9887,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-04-14 22:43:32] SMS Request (Action: CLI/Google):
+Phone: 905327104206
+Sender: FREEMIND
+Message: Sn. cuma yilmaz Cermik Belediyesine iletmis oldugunuz sikayet talebiniz isleme alinmistir.
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":200995886,"status":"success","quantity":9881,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-04-15 04:39:04] SMS Request (Action: CLI/Google):
+Phone: 905327104206
+Sender: FREEMIND
+Message: Sn. cuma yilmaz Cermik Belediyesine iletmis oldugunuz sikayet talebiniz icin gerekli islem yapilmistir.
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":201014621,"status":"success","quantity":9880,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-04-15 21:48:27] SMS Request (Action: CLI/Google):
+Phone: 905327104206
+Sender: FREEMIND
+Message: Sn. cuma yilmaz Cermik Belediyesine iletmis oldugunuz sikayet talebiniz isleme alinmistir.
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":201041290,"status":"success","quantity":9878,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-04-15 22:21:53] SMS Request (Action: CLI/Google):
+Phone: 905327104206
+Sender: FREEMIND
+Message: Sn. cuma yilmaz Cungus Belediyesine iletmis oldugunuz sikayet talebiniz icin gerekli islem yapilmistir.
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":201043284,"status":"success","quantity":9877,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-04-16 00:24:19] SMS Request (Action: CLI/Google):
+Phone: 905349648172
+Sender: FREEMIND
+Message: Şeğo yeğenim :D
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":201050152,"status":"success","quantity":9875,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-04-17 21:19:58] SMS Request (Action: CLI/Google):
+Phone: 905327104206
+Sender: FREEMIND
+Message: Sn. cuma yilmaz mus Belediyesine iletmis oldugunuz sikayet talebiniz isleme alinmistir.
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":201119859,"status":"success","quantity":9871,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-04-18 02:13:21] SMS Request (Action: CLI/Google):
+Phone: 905327104206
+Sender: FREEMIND
+Message: Sn. cuma yilmaz Cermik Belediyesine iletmis oldugunuz sikayet talebiniz isleme alinmistir.
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":201131272,"status":"success","quantity":9870,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-04-18 03:52:28] SMS Request (Action: CLI/Google):
+Phone: 905327104206
+Sender: FREEMIND
+Message: Sn. cuma yilmaz Cermik Belediyesine iletmis oldugunuz sikayet talebiniz isleme alinmistir.
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":201134902,"status":"success","quantity":9869,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+

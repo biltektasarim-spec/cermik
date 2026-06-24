@@ -1,0 +1,1 @@
+Current ENUM definition: enum('Historical','Nature','Park','HotSpring','ParkAndGarden')

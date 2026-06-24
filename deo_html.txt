@@ -1,0 +1,1301 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+	
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RT7VXCSXK3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RT7VXCSXK3');
+</script>
+				<base href="https://www.diyarbakireo.org.tr/" />
+				<title>DİYARBAKIR ECZACI ODASI</title>
+				<meta name="description" content="Türk Eczacılar Birliği 11.Bölge Diyarbakır Eczacı Odası">
+				<meta name="keywords" content="eczane,eczacı,nöbetçi eczane,ilaç,nöbet,sgk,teb,Diyarbakır eczacı odası,diyarbakır,Diyarbakır">
+				<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+				<meta http-equiv="X-UA-Compatible" content="IE=8; IE=10; IE=11" />
+				<meta name="robots" content="index, follow">
+       		    <meta name="revisit-after" content="1 days">
+				<meta name="author" content="Oben Teknoloji">
+				<meta name="developer" content="Oben Teknoloji" />
+				<meta name="designer" content="Oben Teknoloji" />
+				<meta property="og:image" content="https://www.diyarbakireo.org.tr/images/addthis.jpg" />
+				<link rel="shortcut icon" href="https://www.obenteknoloji.com.tr/ortak/yonetim/dist/img/favicon.ico" />
+				<meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1; user-scalable=0, shrink-to-fit=no" />
+				<meta name="theme-color" content="#41033e">
+				<meta name="msapplication-navbutton-color" content="#41033e">
+				<link rel="apple-touch-icon" sizes="152x152" href="images/logo.png" />
+				<link rel="apple-touch-icon" sizes="144x144" href="images/logo.png" />
+				<link rel="apple-touch-icon" sizes="120x120" href="images/logo.png" />
+				<link rel="apple-touch-icon" sizes="114x114" href="images/logo.png" />
+				<link rel="apple-touch-icon" sizes="72x72" href="images/logo.png" />
+				<link rel="apple-touch-icon-precomposed" href="images/logo.png" />
+				<script src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"></script>
+				<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+				<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900&amp;display=swap" rel="stylesheet">
+				<link rel="stylesheet" href="assets/css/diyarbakireo.css">
+	
+				<script src="https://obenteknoloji.com/ortak/jquery1.9.1.min.js"></script>
+				<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>
+				<script language="Javascript" type="text/javascript"> 
+									  function temizle(temizle){  return temizle.replace(/(<([^>]+)>)/ig,""); } 
+									  $(function() {	
+										document.title = temizle($("#tit").html());	
+										  var title = document.title;
+												var alttitle = "DİYARBAKIR ECZACI ODASI";
+												window.onblur = function () { document.title = alttitle; };
+												window.onfocus = function () { document.title = title; };
+
+										});
+
+								</script>
+	
+	  </head>
+	
+	
+<body>
+	
+<div class="app">
+<div><div class="header-overlay"></div>
+	
+	<!--mobil menü!-->
+<nav class="mobile-nav" role="navigation">
+  <div class="mobile-nav__header"> <a class="title" href="#">DİYARBAKIR ECZACI ODASI</a> <a class="close nav--toggle is-close" href="javascript:void(0);">KAPAT</a> </div>
+  <div class="mobile-nav__wrapper">
+    <div class="mobile-nav__content">
+      <ul id="dropdown">
+        <li><a href="odamiz"> ODAMIZ </a></li>
+        <li><a href="duyurular/tumu">DUYURULAR</a></li>
+		<li><a href="nobetci-eczaneler">NÖBETÇİ ECZANELER </a></li>
+		<li><a href="eczaci" target="_blank"> ÜYE İŞLEMLERİ</a></li>
+		  <li><a href="dosyalar/eczaci-rehberi" title="Eczane Rehberi"> ECZANE İŞLEMLERİ</a></li>
+		  <li><a href="cezaevleri" title="CEZAEVİ BİLGİLERİ"> CEZAEVİ BİLGİLERİ</a></li>
+						<li><a  href="yasa-ve-yonetmelikler" title="Mevzuat"> YASA VE YÖNETMELİKLER</a></li>
+						<li><a href="https://www.teb.org.tr/versions_latest/700/sut_20190904" target="_blank"> GÜNCEL S.U.T.</a></li>
+						<li><a href="https://www.teb.org.tr/content/213/Protokoller" target="_blank"> PROTOKOLLER</a></li>
+						<li><a href="https://www.mevzuat.gov.tr/" target="_blank"> MEVZUAT</a></li>
+						<li><a href="eczane-adi-sorgulama" title="Eczane Adı Sorgulama"> ECZANE ADI SORGULAMA</a></li>
+						<li><a href="hesaplamalar" title="Hesaplamalar"> ALKOL HESAPLAMA</a></li>
+		                <li><a href="dosyalar/file/evrak/Mama-Hesaplama.xlsx" target="_blank" title="Hesaplamalar"> MAMA HESAPLAMA</a></li>
+		  
+		  
+		  
+		  
+		  <li><a href="dosyalar/Dosyalar-Belgeler"> DOSYALAR</a></li>
+		  <li><a href="ilanlar"> İLANLAR</a> </li>
+		  <li><a href="onemli-linkler/eczaci-odalari"> BAĞLANTILAR</a></li>
+        <li><a href="iletisim-bilgilerimiz"> İLETİŞİM </a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="mobile-nav__footer">
+    <div class="mobile-nav__social">
+		<a href="https://www.facebook.com/groups/diyarbakireczaciodasi" target="_blank"><i  class="fab fa-facebook-f"></i></a>
+			<a href="https://www.twitter.com/diyarbakireo" target="_blank"><i class="fab fa-instagram"></i></a>
+			<a href="https://www.youtube.com/diyarbakireo" target="_blank"><i class="fab fa-youtube"></i></a>
+			<a href="https://www.instagram.com/diyarbakireo" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></div>
+  </div>
+</nav>
+	<!--mobil menü!-->
+	
+<div class="header-sticky">
+  <div class="container">
+    <div class="header-sticky__left flexbox align-center">
+      <button class="header-bar nav--toggle is-open" aria-controls="MobileNavToggle"> <span class="icon">
+      <svg aria-hidden="true" data-prefix="fal" data-icon="bars" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="svg-inline--fa fa-bars fa-w-14">
+        <path fill="currentColor" d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"  class=""></path>
+      </svg>
+      </span> </button>
+      <div class="text"><strong>DİYARBAKIR</strong> ECZACI ODASI</div>
+    </div>
+    <div class="header-sticky__logo"> <a href="https://www.diyarbakireo.org.tr/"><img alt="DİYARBAKIR ECZACI ODASI" title="DİYARBAKIR ECZACI ODASI" src="images/logo.png"></a> </div>
+  </div>
+</div>
+	
+
+<header class="header" role="banner">
+  <div class="header-logo is-visible">
+    <h1> <a href="https://www.diyarbakireo.org.tr/"><img alt="DİYARBAKIR ECZACI ODASI" title="DİYARBAKIR ECZACI ODASI" src="images/logo.png"></a> </h1>
+  </div>
+  <div class="header-top">
+    <div class="header-container container">
+      <button class="header-bar ovalyap nav--toggle is-open" aria-controls="MobileNavToggle"> <span class="icon">
+      <svg aria-hidden="true" data-prefix="fal" data-icon="bars" role="img"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="svg-inline--fa fa-bars fa-w-14">
+        <path fill="currentColor"  d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z" class=""></path>
+      </svg>
+      </span> </button>
+      <div class="flexbox header-top__right">
+        <div class="header-social">
+			<a href="https://www.facebook.com/groups/diyarbakireczaciodasi" target="_blank"><i  class="fab fa-facebook-f"></i></a>
+			<a href="https://www.twitter.com/diyarbakireo" target="_blank"><i class="fab fa-instagram"></i></a>
+			<a href="https://www.youtube.com/diyarbakireo" target="_blank"><i class="fab fa-youtube"></i></a>
+			<a href="https://www.instagram.com/diyarbakireo" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+		    <a href="eczaci/" target="_blank" title="Üye Portalı"><i class="fa fa-user-md"></i></a></div>
+      </div>
+    </div>
+  </div>
+	
+  <div class="header-bottom">
+    <div class="header-container container">
+      <div class="header-nav__wrapper">
+        <nav class="header-nav flexbox justify-between" role="navigation">
+          <div class="flexbox">
+       
+            <div class="header-nav__item"><a href="#"> ODAMIZ </a>
+              <div class="header-nav__dropdown nav--overlay is-dropdown">
+                <div class="container">
+                  <div class="boxes gutter-small list-5">
+                    <ul class="row no-gutters">
+												<li><a href="odamiz/yonetim-kurulumuz">YÖNETİM KURULU</a></li>
+												<li><a href="odamiz/denetleme-kurulumuz">DENETLEME KURULU</a></li>
+												<li><a href="odamiz/buyuk-kongre-delegeleri">BÜYÜK KONGRE DELEGELERİ</a></li>
+												<li><a href="odamiz/haysiyet-divani">HAYSİYET DİVANI</a></li>
+												<li><a href="odamiz/ılce-temsılcılerımız">İLÇE TEMSİLCİLERİMİZ</a></li>
+												<li><a href="odamiz/komisyonlar">KOMİSYONLAR</a></li>
+						                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="header-nav__item">
+				<a href="#">DUYURULAR </a>
+              <div class="header-nav__dropdown nav--overlay is-dropdown">
+                <div class="container">
+                  <div class="boxes gutter-small list-5">
+                    <ul class="row no-gutters">
+                                   <li><a href="duyurular/baskandan" title="BAŞKANDAN"> BAŞKANDAN</a></li>
+                         <li><a href="duyurular/oda-duyurulari" title="ODA  DUYURULARI"> ODA  DUYURULARI</a></li>
+                         <li><a href="duyurular/teb-haberleri" title="TEB HABERLERİ"> TEB HABERLERİ</a></li>
+                         <li><a href="duyurular/saglik-mudurlugunden" title="SAĞLIK MÜDÜRLÜĞÜNDEN"> SAĞLIK MÜDÜRLÜĞÜNDEN</a></li>
+                         <li><a href="duyurular/saglik-bakanligi" title="SAĞLIK BAKANLIĞI"> SAĞLIK BAKANLIĞI</a></li>
+                         <li><a href="duyurular/sgk-duyurulari" title="SGK DUYURULARI"> SGK DUYURULARI</a></li>
+                         <li><a href="duyurular/uyelere-ozel-duyurular" title="ÜYELERE ÖZEL DUYURULAR"> ÜYELERE ÖZEL DUYURULAR</a></li>
+                         <li><a href="duyurular/basinda-biz" title="BASINDA BİZ"> BASINDA BİZ</a></li>
+                         <li><a href="duyurular/anlasmali-kurumlar" title="ANLAŞMALI KURUMLAR"> ANLAŞMALI KURUMLAR</a></li>
+                         <li><a href="duyurular/calisma-raporlari" title="ÇALIŞMA RAPORLARI"> ÇALIŞMA RAPORLARI</a></li>
+                         <li><a href="duyurular/eczaciniz-diyorki" title="ECZACINIZ DİYOR Kİ"> ECZACINIZ DİYOR Kİ</a></li>
+                                            <li><a href="duyurular/tumu" title="Tüm Duyurular">TÜM DUYURULAR</a></li>
+					
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+			  <div class="header-nav__item"><a href="nobetci-eczaneler" title="Nöbetçi Eczaneler"> NÖBETÇİ ECZANELER</a></div>
+			  
+			  <div class="header-nav__item">
+				<a href="#"> ÜYE İŞLEMLERİ</a>
+              <div class="header-nav__dropdown nav--overlay is-dropdown">
+                <div class="container">
+                  <div class="boxes gutter-small list-5">
+                    <ul class="row no-gutters">
+                      <li><a href="eczaci" target="_blank"> ÜYE GİRİŞİ</a></li>
+						<li><a href="eczaci/kullanici-girisi-recete-odeme-C" target="_blank"> REÇETE İŞLEMLERİ</a></li>
+						<li><a href="uyelerimiz"> ÜYELERİMİZ</a></li>
+						<li><a href="eczaci/kullanici-girisi-dilekceler" title="Dilekçematik"> DİLEKÇELER</a></li>
+						<li><a href="eczaci/kullanici-girisi-bilgilerim" title="Bilgilerimi Güncelle"> BİLGİLERİMİ GÜNCELLE</a></li>
+						<li><a href="duyurular/uyelere-ozel-duyurular"> ÜYELERE ÖZEL DUYURULAR</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+          </div>
+			
+          <div class="flexbox">
+			  <div class="header-nav__item">
+				<a href="#"> ECZANE REHBERİ</a>
+              <div class="header-nav__dropdown nav--overlay is-dropdown">
+                <div class="container">
+                  <div class="boxes gutter-small list-5">
+                    <ul class="row no-gutters">
+                      <li><a href="dosyalar/eczaci-rehberi" title="Eczane Rehberi"> ECZANE İŞLEMLERİ</a></li>
+						<li><a href="cezaevleri" title="CEZAEVİ BİLGİLERİ"> CEZAEVİ BİLGİLERİ</a></li>
+						<li><a  href="yasa-ve-yonetmelikler" title="Mevzuat"> YASA VE YÖNETMELİKLER</a></li>
+						<li><a href="https://www.teb.org.tr/versions_latest/700/sut_20190904" target="_blank"> GÜNCEL S.U.T.</a></li>
+						<li><a href="https://www.teb.org.tr/content/213/Protokoller" target="_blank"> PROTOKOLLER</a></li>
+						<li><a href="https://www.mevzuat.gov.tr/" target="_blank"> MEVZUAT</a></li>
+						<li><a href="eczane-adi-sorgulama" title="Eczane Adı Sorgulama"> ECZANE ADI SORGULAMA</a></li>
+						<li><a href="hesaplamalar" title="Hesaplamalar"> ALKOL HESAPLAMA</a></li>
+						<li><a href="dosyalar/file/evrak/Mama-Hesaplama.xlsx" target="_blank" title="Hesaplamalar"> MAMA HESAPLAMA</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+			  
+			  <div class="header-nav__item">
+				<a href="#"> DOSYALAR</a>
+              <div class="header-nav__dropdown nav--overlay is-dropdown">
+                <div class="container">
+                  <div class="boxes gutter-small list-5">
+                    <ul class="row no-gutters">
+                                                      <li><a href="dosyalar/dilekce-ve-formlar" title="Dilekçe ve Formlar">Dilekçe ve Formlar</a></li>
+								                                <li><a href="dosyalar/e-recete-iade-islemleri" title="E-Reçete İade İşlemleri">E-Reçete İade İşlemleri</a></li>
+								                                <li><a href="dosyalar/eczane-ekonomisi" title="Eczane Ekonomisi">Eczane Ekonomisi</a></li>
+								                                <li><a href="dosyalar/teblig-protokol" title="Tebliğ-Protokol">Tebliğ-Protokol</a></li>
+								                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+			  
+			  
+			  <div class="header-nav__item">
+				<a href="#"> İLANLAR</a>
+              <div class="header-nav__dropdown nav--overlay is-dropdown">
+                <div class="container">
+                  <div class="boxes gutter-small list-5">
+                    <ul class="row no-gutters">
+						
+									  						
+                      <li><a href="ilanlar/5">  ECZANE EKİPMANLARI</a></li>
+						
+												
+                      <li><a href="ilanlar/7">  GENEL İLANLAR</a></li>
+						
+												
+                      <li><a href="ilanlar/1">  DEVİR ECZANE</a></li>
+						
+												
+                      <li><a href="ilanlar/2">  ELEMAN</a></li>
+						
+												
+                      <li><a href="ilanlar/3">  MESUL MÜDÜR</a></li>
+						
+												
+                      <li><a href="ilanlar/4">  YARDIMCI ECZACI</a></li>
+						
+													<li><a href="eczaci/kullanici-girisi-ilan-islemleri" target="_blank" title="İlan İşlemleri">YENİ İLAN EKLE</a></li>
+                                    <li><a href="ilanlar" title="İlanlar">TÜM İLANLAR</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+			  
+			  <div class="header-nav__item">
+				<a href="#"> BAĞLANTILAR</a>
+              <div class="header-nav__dropdown nav--overlay is-dropdown">
+                <div class="container">
+                  <div class="boxes gutter-small list-5">
+                    <ul class="row no-gutters">
+                                                              <li><a href="onemli-linkler/eczaci-odalari" title="ECZACI ODALARI">ECZACI ODALARI</a></li>
+                                                                                  <li><a href="onemli-linkler/resmi-kurumlar" title="RESMİ KURUMLAR">RESMİ KURUMLAR</a></li>
+                                                                                  <li><a href="onemli-linkler/ecza-koop" title="ECZA KOOPERATİFLERİ">ECZA KOOPERATİFLERİ</a></li>
+                                                                                  <li><a href="onemli-linkler/ilac-ureticileri" title="İLAÇ ÜRETİCİLERİ">İLAÇ ÜRETİCİLERİ</a></li>
+                                                                                  <li><a href="onemli-linkler/diger-baglantilar" title="DİĞER BAĞLANTILAR">DİĞER BAĞLANTILAR</a></li>
+                                                                                  <li><a href="onemli-linkler/bankalar" title="BANKALAR">BANKALAR</a></li>
+                                                                                  <li><a href="onemli-linkler/gazeteler" title="GAZETELER">GAZETELER</a></li>
+                                                                                  <li><a href="onemli-linkler/televizyonlar" title="TELEVİZYONLAR">TELEVİZYONLAR</a></li>
+                                                                                  <li><a href="onemli-linkler/baglantilar" title="SIK KULLANILANLAR">SIK KULLANILANLAR</a></li>
+                                                             </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+            <div class="header-nav__item"><a href="iletisim-bilgilerimiz" title="İletişim"> İLETİŞİM </a></div>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+	
+</header>
+</div>
+	
+<main class="main" role="main">
+  
+<div class="inner-page__heading">
+<div class="container"></div>
+</div>
+
+
+
+ <div class="container frm">
+    <div class="inner-page__row row">
+      <div class="col-article col">
+        <div class="inner-page__content">
+			<div class="section-header padding-v-30  small center dark top-2 bottom-2">
+              <div class="title main-color" id="tit">27 Şubat 2026 Bugün Nöbetçi Eczaneler</div><HR>
+            </div>
+				
+				    					
+	
+				<div class="row">
+							<div class="col-md-6">
+							<form action="nobetkarti" target="new" name="uye" method="post" autocomplete="off">
+           					<fieldset class="form-group row">
+            <div class="col-md-6"><input type="date" name="tarihk" value="2026-02-27" required="required" class="form-control" placeholder="Tarih 1"> </div>
+            
+           
+            <div class="col-md-4">
+				   <select class="custom-select d-block w-100" id="ilce" name="ilce" required="">
+					<option value="" selected>İLÇE</option>
+					   <option value="1">MERKEZ</option>
+                					<option value="1195">BİSMİL</option>
+										<option value="1249">ÇERMİK</option>
+										<option value="1253">ÇINAR</option>
+										<option value="1263">ÇÜNGÜŞ</option>
+										<option value="1278">DİCLE</option>
+										<option value="1791">EĞİL</option>
+										<option value="1315">ERGANİ</option>
+										<option value="1381">HANİ</option>
+										<option value="1389">HAZRO</option>
+										<option value="1962">KOCAKÖY</option>
+										<option value="1490">KULP</option>
+										<option value="1504">LİCE</option>
+										<option value="1624">SİLVAN</option>
+										</select>
+								</div>
+            <div class="col-md-2"><input type="submit" name="gnr" class="btn btn-md btn-main" value="YAZDIR"></div>
+								</fieldset>
+						    </form>
+								<hr>
+						    </div>
+
+							<div class="col-md-6 text-right">
+							<form action=""  name="ara" method="post" autocomplete="off">
+           					<fieldset class="form-group row">
+            <div class="col-md-3"><input type="date" name="tarih1" value="2026-02-27"  class="form-control" placeholder="Tarih 1"> </div>
+								<div class="col-md-3"><input type="date" name="tarih2" value="2026-02-27"  class="form-control" placeholder="Tarih 2"> </div>
+            
+            <div class="col-md-4">
+				 <select class="custom-select d-block w-100" id="ilce" name="ilce" required="">
+				<option value="" selected>İLÇE</option>
+					 <option value="1">MERKEZ</option>
+                  					 
+					<option value="1195">BİSMİL</option>
+										 
+					<option value="1249">ÇERMİK</option>
+										 
+					<option value="1253">ÇINAR</option>
+										 
+					<option value="1263">ÇÜNGÜŞ</option>
+										 
+					<option value="1278">DİCLE</option>
+										 
+					<option value="1791">EĞİL</option>
+										 
+					<option value="1315">ERGANİ</option>
+										 
+					<option value="1381">HANİ</option>
+										 
+					<option value="1389">HAZRO</option>
+										 
+					<option value="1962">KOCAKÖY</option>
+										 
+					<option value="1490">KULP</option>
+										 
+					<option value="1504">LİCE</option>
+										 
+					<option value="1624">SİLVAN</option>
+										</select>
+								</div>
+            <div class="col-md-2"><input type="submit" name="gnr" class="btn btn-md btn-main" value="ARA"></div>
+								</fieldset>
+						    </form>
+								<hr>
+						    </div>
+
+				</div>
+				
+							
+				
+                <div class="row">
+			  			  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>YENİŞEHİR NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>MURAT ECZANESİ</strong> - VİLAYET</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> LİSE CAD. VALİLİK ARKASI NÜFUS MÜD. YANI  YENİŞEHİR SAĞLIK OCAĞI KARŞISI  GÜLTEKİN PEYNİRCİLİK YANI NO:35<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:04122237366">04122237366</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=37.914300,40.224400&ll=37.914300,40.224400&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>SUR NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>KARDESLER ECZANESİ</strong> - DAĞKAPI</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> İNÖNÜ CAD. BÜYÜK P.T.T YANI ÇİFTKAPI KARŞISI NO:63 SUR <br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:04122239855">04122239855</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=37.9141325,40.2304949&ll=37.9141325,40.2304949&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>BAĞLAR NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-6 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>CAN ECZANESİ</strong> - ORYIL PETROL YANI </h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> ORYIL PETROL YANI ESKİ ATATÜRK LİSESİ VE AKASYA DURAĞI KARŞISI<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:0412 234 32 00">0412 234 32 00</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=37.924100,40.210500&ll=37.924100,40.210500&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  			  
+                        <div class="col-md-6 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>NUR ECZANESİ</strong> - CEZAEVİ</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> CEZAEVİNDEN MİGROSA GİDEN YOL ÜZERİ CEZAEVİ ÜST KÖŞE BUHARA 1 APT. ALTI PAZAR PAZARI  YANI <br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:0412 252 07 76">0412 252 07 76</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=37.9291139,40.1940131&ll=37.9291139,40.1940131&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  			  
+                        <div class="col-md-6 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>SÜMER ECZANESİ</strong> - OTOGAR / ZANA DÜĞÜN SALONU</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> BAĞCILAR MAH. AZADİ CADDDESİ 9B/6 PARİS DÜĞÜN SALONU ALTI ŞEHİRLER ARASI OTOGAR İLERİSİ<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:0530 447 53 45">0530 447 53 45</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=37.9106346,40.1202884&ll=37.9106346,40.1202884&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>KAYAPINAR NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-6 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>BARAN ECZANESİ</strong> - HUZUREVLERİ</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> HUZUREVLERİ MAHALLESİ 68.SOKAK NO:3 1 NOLU AİLE HEKİMLİĞİ KARŞISI HUZUREVLERİ İLKÖĞRETİM OKULU PARKIN BİTİŞİNDEKİ SOKAK<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:0412 238 11 11">0412 238 11 11</a>  - <a class="gri" href="tel:0412 238 32 32">0412 238 32 32</a>						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=37.940166,40.191566&ll=37.940166,40.191566&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  			  
+                        <div class="col-md-6 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>İNCİ ECZANESİ</strong> - KAYAPINAR</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> AVA DÜĞÜN SALONU SOKAĞINDAN 800 MT İLERLEYİNCE BEDİÜZZAMAN CAMİİ ARKASI  BAHÇEŞEHİR KOLEJİ YANI ÇEYSA 6 SİTESİ ALTI<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:0533 360 12 24">0533 360 12 24</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=37.9483795,40.1701736&ll=37.9483795,40.1701736&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  			  
+                        <div class="col-md-6 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>AYÇİÇEĞİ ECZANESİ</strong> - KAYAPINAR</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> TALAYTEPE MAHALLESİ 4007 .SOKAK GÜNEYDOĞU YAPI KOOP. KARŞISI KULE CİTY EVLERİ  D BLOK ALTI WİNSTON AVM ARKASI MALİYE KONUTLARI 1.ETAP <br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:0546 540 46 21">0546 540 46 21</a>  - <a class="gri" href="tel:0546 646 21 15">0546 646 21 15</a>						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=37.9788198,40.1473451&ll=37.9788198,40.1473451&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  			  
+                        <div class="col-md-6 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>KÜBRA ECZANESİ</strong> - KAYAPINAR</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> 50 METRELİK YOLDA GÜNEŞ DÜĞÜN SALONU KARŞISI / ŞEYH AHMET CAMİ YANI / MEDİCAMED HASTANESİ KARŞISI - FIRAT MAHALLESİ NAZIM HİKMET CADDESİ ASUR YAPI C BLOK ALTI KAYAPINAR/DİYARBAKIR<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:0507 405 56 30">0507 405 56 30</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=37.935654,40.131523&ll=37.935654,40.131523&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>BİSMİL NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-6 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>YENİ TEPE ECZANESİ</strong> - BİSMİL</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i>  tepe devlet hastanesi karşısı <br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:0534 079 06 21">0534 079 06 21</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=37.796200,40.783400&ll=37.796200,40.783400&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  			  
+                        <div class="col-md-6 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>SİDAR ECZANESİ</strong> - BİSMİL</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> Fatim mahallesi barış bulvarı (show mar’dan sanayi yolu üzeri akyer mobilya karşısı) no:89/c<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:0531 729 17 60">0531 729 17 60</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=37.851482,40.669529&ll=37.851482,40.669529&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>ÇERMİK NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>HALK ECZANESİ</strong> - ÇERMİK</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> HÜKÜMET KONAĞI YANI<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:04124612060">04124612060</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=38.136400,39.451100&ll=38.136400,39.451100&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>ÇINAR NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>NİL ECZANESİ</strong> - ÇINAR</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> Yeşil mah. 19 Mayıs Cad. Bina No:83 Çınar<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:05367449807">05367449807</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=37.7232953,40.4169773&ll=37.7232953,40.4169773&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>ÇÜNGÜŞ NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>KAPLAN  ECZANESİ</strong> - ÇÜNGÜŞ</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> Karşıyaka mah Sedat arıtürk bulvarı no:10b çüngüş/diyarbakır<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:5368520462">5368520462</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=38.212827,39.294070&ll=38.212827,39.294070&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>DİCLE NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>HASTANE  ECZANESİ</strong> - DİCLE</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> 15 temmuz mahallesi Ergani caddesi no 103/A  Yeni dicle hastanesi karşısı Ergani yolu üzeri<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:05541966524">05541966524</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=38.361459,40.072148&ll=38.361459,40.072148&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>EĞİL NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>HALUK ECZANESİ</strong> - EĞİL</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> Kale mahallesi Bey sokak no 14/A Eğil/Diyarbakır<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:0545 691 72 25">0545 691 72 25</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=38.2579916,40.0858878&ll=38.2579916,40.0858878&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>ERGANİ NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>RONAHİ ECZANESİ</strong> - ERGANİ</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> İstasyon mahallesi istasyon caddesi 26. Sokak no 94/B<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:5308132851">5308132851</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=38.2570997,39.7569385&ll=38.2570997,39.7569385&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>HANİ NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>GÜLTEKİN ECZANESİ</strong> - DEVLET HASTANESİ KARŞISI</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> Merkez Mahallesi Nergiz 2 Sokak No:20/D   devlet hastanesi karşısı  Hani/Diyarbakır<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:0544 437 91 85">0544 437 91 85</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=38.407179,40.4020538&ll=38.407179,40.4020538&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>HAZRO NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>DEĞER ECZANESİ</strong> - HAZRO</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> Diyarbakır İli Hazro İlçesi Topalan Mah. No:8/A<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:05373828939">05373828939</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=38.2545485,40.7801406&ll=38.2545485,40.7801406&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>KOCAKÖY NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>NERGİS ECZANESİ</strong> - KOCAKÖY</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> Yenişehir mahallesi hastane caddesi no 39//B Kocaköy/DİYARBAKIR<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:04128112121">04128112121</a> 						                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>KULP NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>MERKEZ ECZANESİ</strong> - KULP</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> KULP<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:04128312283">04128312283</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=38.495011,41.011657&ll=38.495011,41.011657&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>LİCE NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>RENGİN ECZANESİ</strong> - LİCE</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> Karahasan mah. Diyarbakır caddesi. Hastanenin az ilerisi  Mehmet Toprak halk eğitim merkezinin karşısı <br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:0531 596 60 26">0531 596 60 26</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=38.454972,40.641953&ll=38.454972,40.641953&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+									  <div class="col-md-12 bottom-1"><h3 class="main-color"><strong>SİLVAN NÖBETÇİ ECZANELER</strong></h3><hr/></div>
+			  			  
+                        <div class="col-md-12 col-sm-12 bottom-2">
+              <div class="col-md-12 fx animated fadeInRight nobet-kart " data-animate="fadeInRight" data-animation-delay="300" style="animation-delay: 300ms;">
+
+                <div class="row ">
+                  <div class="col-md-2 text-center"><img class="img-fluid" src="images/epano.gif" alt="Nöbetçi Eczane" title="Nöbetçi Eczane" /></div>
+				  <div class=" col-md-10">
+                    <h3 class="text-danger"><strong>BERFIN ECZANESİ</strong> - SİLVAN</h3>
+                    <p> 
+                      <i class="fa fa-home main-color"></i> SİLVAN<br>
+                      <i class="fa fa-phone main-color"></i> <a class="gri" href="tel:04127112623">04127112623</a> 						<br>
+										<i class="fa fa-map-marker main-color"></i> 
+										<a class="gri" href="http://maps.google.com/maps?q=38.141700,41.010200&ll=38.141700,41.010200&z=17" target="_blank" title="Harita Konumu">
+										Eczaneyi haritada görüntülemek için tıklayınız...</a>
+										                    </p>
+                  </div>
+					 
+                </div>
+
+                
+              </div>
+            </div>
+			  						<br><br>
+						                 
+                        
+                 
+					
+					
+                        
+                 
+                      </div>
+				
+				
+				
+
+          
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+  
+
+</main>
+
+
+	
+<footer class="footer" role="cotentinfo">
+	<div style="background: url(images/city.png) repeat-x bottom center; min-height: 105px;">&nbsp;</div>
+  <div class="footer-bottom">
+    <div class="container flexbox align-center justify-between">
+      <div class="text copyright"><p> © Türk Eczacılar Birliği 11.Bölge Diyarbakır Eczacı Odası 2023. Tüm hakları saklıdır. <br>
+                        <small>
+							<i class="fas fa-map-marker"></i> Bağcılar Mahallesi Amid Cad. 1097 Sk. Bağlar / DİYARBAKIR							<i class="fas fa-phone"></i> 0412 252 1018
+							<i class="fas fa-envelope"></i> info@diyarbakireo.org.tr
+                        </small>
+                    </p>
+		</div>
+      <a class="text design" href="https://www.obenteknoloji.com/" target="_blank"><i class="fa fa-code"></i> OBEN</a> </div>
+  </div>
+ 
+</footer>
+	
+<a class="app-scroll" href="javascript:void(0);"> <span class="icon"><i class="fas fa-arrow-up"></i></span> </a>
+<div class="app-overlay"></div>	
+</div>
+	
+	<style>
+             
+                
+		.modal1 {
+                    display: none;
+                    position: fixed;
+                    z-index: 1005;
+                    padding-bottom: 0;
+                    bottom: 0px; left: 0px; right: 0px;
+                    width: 100%;
+                    overflow: hidden;
+                    background-color: rgb(0, 0, 0);
+                    background-color: rgba(0, 0, 0, 0);
+                }
+
+                .modal-content {
+                    background-color: #fefefe;
+                    margin: auto;
+                    padding: 0 5px;
+                    border: 1px solid #eded;
+                    width: 97%;
+
+                }
+
+                .modal-content>.header h4 {
+                    margin-block-start: 0.8em !important;
+                    margin-block-end: 0.8em !important;
+                    text-align: center;
+                }
+
+                .modal-content>.header {
+                    display: flex;
+                    justify-content: space-between;
+                }
+
+                .modal-content>.header .close {
+                    font-size: 28px;
+                    cursor: pointer;
+                    font-weight: bolder;
+
+                }
+
+                .modal-inner {
+                    display: flex;
+                    margin: 2px;
+                    justify-content: space-between;
+                    flex-wrap: no-wrap;
+                }
+
+                .modal-inner .hide {
+                    display: none;
+                }
+
+                .modal-inner>.col-left,
+                .modal-inner>.col {
+                    min-width: 30%;
+                    max-width: 70%;
+                    float: left;
+                    text-align: justify;
+                    padding: 5px;
+                    margin: 5px;
+                }
+
+                .modal-inner>.col-right {
+                    max-width: 30%;
+                    display: inline;
+                    padding: 5px;
+                    margin: 5px;
+                }
+
+                .modal-content button {
+                    min-width: 80px;
+                    height: 50px;
+                    font-size: 14px;
+                    border: 0;
+                    border-radius: 3px;
+                    margin: 3px 0;
+                    font-weight: 500;
+                    cursor: pointer;
+                }
+
+                .modal-content button:hover,
+                .modal-content button:focus {
+                    border-bottom: 2px solid #000;
+                    color: #000;
+                }
+
+
+
+                .col.management>div {
+                    width: 98%;
+                    background-color: #6495ed44;
+                    margin: 3px;
+                    padding: 3px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    float: left;
+                }
+
+                .col.management>div>div:nth-child(1),
+                .col.management>div>div:nth-child(2) {
+                    min-width: 49%;
+                }
+
+                .col.management>div>div:nth-child(1) {
+                    text-align: start;
+                    text-indent: 0.3em;
+                    font-weight: 700;
+                }
+
+                .col.management>div>div:nth-child(2) {
+                    text-align: end;
+                    text-indent: 1em;
+                }
+
+                .col.management>div>div:nth-child(3) {
+                    min-width: 98%;
+                    font-size: smaller;
+                }
+            </style>
+<div class="row">
+	<div class="col-md-12">
+	<div id="myModal" class="modal1">
+                    <div class="modal-content">
+                        
+                        <div class="modal-inner">
+                            <div class="col-left">
+								<h4><strong>Çerez Ayarları</strong></h4>
+                                <p>
+                                    Web sitemizdeki içeriklerden en iyi şekilde yararlanmanızı sağlamak için 6698 Sayılı Kişisel Verilerin korunması Kanunu'na (KVKK) ve Avrupa Birliği Veri Koruma Tüzüğü'ne (GDPR) uygun olarak çerezleri kullanıyoruz. Sitenin düzgün çalışması için gerekli zorunlu çerezlerin kullanılmasını istemiyorsanız ziyaretinizi sonlandırmalısınız. Diğer çerezler yönünden ise lütfen tercihlerinizi belirleyiniz.
+
+                                </p>
+                                <p>
+                                    <a target="_new" class="btn btn-block btn-success" href="cerez-aydinlatma-metni">Çerez Aydınlatma Metni</a>
+                                </p>
+
+                            </div>
+                            <div class="col management">
+                                <div>
+                                    <div class="subject">Zorunlu Çerezler</div>
+                                    <div class="check" style="color:#198754">Her zaman aktif</div>
+                                    <div class="detail">
+                                        Kullanıcı deneyiminin tutarlılığı için bir tarayıcı oturumu sırasında bir kullanıcı durumunu korumak için kullanılır. Tarayıcı oturumu sona erdiğinde varsayılan olarak çerez yok edilir.
+                                    </div>
+
+                                </div>
+                                <div>
+                                    <div class="subject">Analitik Çerezler</div>
+                                    <div class="check">
+                                        <input type="checkbox" id="statCheck">
+                                    </div>
+                                    <div class="detail">
+                                        Kullanıcılarımız için web sitesi deneyimini optimize etmek için analitik çerezler kullanıyoruz. Bu analitik çerezler ile web sitemizin kullanımı hakkında bilgi ediniyoruz.
+                                    </div>
+
+                                </div>
+                                <div>
+                                    <div class="subject">Fonksiyonel Çerezler</div>
+                                    <div class="check">
+                                        <input type="checkbox" id="statCheckOpt">
+                                    </div>
+                                    <div class="detail">
+                                        Bu tanımlama bilgisi, ziyaretçilerin bir dizi ağ ve paylaşım platformuyla içerik paylaşmasını sağlamak için web sitelerine yaygın olarak gömülü olan AddThis sosyal paylaşım aracıyla ilişkilidir. Güncellenmiş bir sayfa paylaşım sayısını saklar. İnternet sitesinde yer alan haberlerin sosyal medyada paylaşılması için kullanılmaktadır.
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="col-right">
+                                <button type="button" class="allowAll btn btn-md btn-success">Tümünü Onayla</button>
+                                <button type="button" class="openOption btn btn-md btn-info">Tercihleri Belirle</button>
+                                <button type="button" class="allow btn btn-md btn-primary">Tercihlerimi Kaydet</button>
+                                <button type="button" class="deny btn btn-md btn-danger">Reddet</button>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+</div>
+	</div>
+	
+	
+
+	<script>
+
+		
+            let analiz = false;
+            function cookieStatus() {
+                let lsStatus = localStorage.getItem('cmc_status');
+                return (lsStatus != "allow") ? false : true;
+            }
+            analiz = cookieStatus();
+            if (analiz) {
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+            
+                ga('create', 'G-RT7VXCSXK3', 'auto');
+                ga('send', 'pageview');
+            }
+
+                let modal = document.getElementById("myModal");
+
+                let closeBtn = document.querySelector(".close");
+                let optionBtn = document.querySelector("button.openOption");
+                let allowAllBtn = document.querySelector("button.allowAll");
+                let denyBtn = document.querySelector("button.deny");
+                let allowBtn = document.querySelector("button.allow");
+
+                allowAllBtn.onclick = function () {
+                    saveAndExit('allowAll')
+                };
+                allowBtn.onclick = function () {
+                    saveAndExit('allow')
+                };
+                denyBtn.onclick = function () {
+                    saveAndExit('deny')
+                };
+		        document.querySelector('.management').style.display = "none";
+		allowBtn.style.display = "none";
+                optionBtn.onclick = function () {
+                    document.querySelector('.management').style.display = "grid";
+                    optionBtn.style.display = "none";
+					allowBtn.style.display = "block";
+                    document.querySelector('button.allow').style.display = "block";
+                }; 
+                closeBtn.onclick = function () {
+                    modal.style.display = "none";
+                }
+
+
+                function saveAndExit(type) {
+
+                    if (type == "allowAll") {
+                        localStorage.setItem('cmc_status', 'allow');
+                        localStorage.setItem('_cmc_status', 'allow');
+                    } else if (type == "deny") {
+                        localStorage.setItem('cmc_status', 'deny');
+                        localStorage.setItem('_cmc_status', 'deny');
+                    } else if (type == "allow") {
+                        let check = document.getElementById("statCheck").checked;
+                        if (check) {
+                            localStorage.setItem('cmc_status', 'allow');
+                        } else {
+                            localStorage.setItem('cmc_status', 'deny');
+                        }
+                        checkOpt = document.getElementById("statCheckOpt").checked;
+                        if (checkOpt) {
+                            localStorage.setItem('_cmc_status', 'allow');
+                        } else {
+                            localStorage.setItem('_cmc_status', 'deny');
+                        }
+                    }
+                    modal.style.display = "none";
+                }
+
+                function showCookieWindow() {
+                    let lsStatus = localStorage.getItem('cmc_status');
+                    if (lsStatus == "allow" || lsStatus == "deny") {
+                        return false;
+                    }
+                    return true;
+                }
+
+
+                if (showCookieWindow()) {
+                    modal.style.display = "block";
+                }
+            </script>
+	
+<script type="text/javascript">
+
+		
+        var u = {
+                visible: "is-visible",
+                hidden: "is-hidden",
+                active: "is-active",
+                open: "is-open",
+                close: "is-close",
+                dropdown: "is-dropdown",
+                completed: "is-completed"
+            },
+            f = {
+                body: $("body, html"),
+                appOverlay: $(".app-overlay")
+            },
+            m = {
+                noScroll: {
+                    elem: "no-scroll",
+                    y: "no-scroll-y",
+                    x: "no-scroll-x"
+                }
+            };
+
+
+    </script>
+	
+<script src="assets/js/main.min.js"></script>
+</body>
+</html>

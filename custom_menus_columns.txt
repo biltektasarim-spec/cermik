@@ -1,0 +1,10 @@
+id
+district_id
+name_tr
+name_en
+icon
+target_url
+place_id
+sort_order
+is_active
+created_at

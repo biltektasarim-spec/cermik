@@ -1,0 +1,12 @@
+{
+  "name": "rotarehber",
+  "version": "1.0.0",
+  "description": "ROTAREHBER Mobil Uygulaması",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "FreeMind",
+  "license": "ISC"
+}

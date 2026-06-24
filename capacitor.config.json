@@ -1,0 +1,23 @@
+{
+  "appId": "com.rotarehber.app",
+  "appName": "ROTAREHBER",
+  "webDir": "www",
+  "server": {
+    "url": "http://rotarehber.com/cermik/",
+    "cleartext": true,
+    "androidScheme": "http"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#0a0e14"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#0a0e14",
+      "androidSpinnerStyle": "large",
+      "spinnerColor": "#00c9ff",
+      "showSpinner": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+# Antigravity ignore file
+# Binary / large files that should not be scanned
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.ico
+*.svg
+*.bmp
+*.tiff
+
+# Archives / deployments (very large)
+*.zip
+*.gz
+*.tar
+*.rar
+deploy_payload.php
+db_import_helper.php
+REHBER_GUNCEL.zip
+update.zip
+
+# SQLite databases
+*.sqlite
+*.db
+
+# Android app source
+CermikRehberiApp/
+
+# Font files
+*.ttf
+*.woff
+*.woff2
+*.eot
+
+# Node modules
+node_modules/
+
+# Session files
+sessions/
+
+# Firebase / secrets (access denied)
+admin/includes/firebase-adminsdk.json
+
+# Uploaded user files (binary)
+uploads/events/
+
+# SQL dumps (very large)
+database_backup.sql
+rehber_hosting_raw.sql

@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8SN9474X79.com.rotarehber.app",
+        "paths": [ "*", "/qr.php*" ]
+      }
+    ]
+  }
+}

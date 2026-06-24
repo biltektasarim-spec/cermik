@@ -1,0 +1,34 @@
+rotarehber.com Çerez (Cookie) Politikası
+1. Çerez Nedir?
+Çerezler, bir internet sitesini ziyaret ettiğinizde cihazınıza (bilgisayar, telefon, tablet) kaydedilen küçük metin dosyalarıdır. Bu dosyalar, sitenin sizi tanımasını, tercihlerini hatırlamasını ve size daha iyi bir deneyim sunulmasını sağlar.
+
+2. Hangi Tür Çerezleri Kullanıyoruz?
+Platformumuzda aşağıdaki çerez türleri kullanılmaktadır:
+
+Zorunlu Çerezler: Sitenin çalışması için temel fonksiyonlardır (Örn: Güvenli giriş yapma, oturum yönetimi). Bu çerezler kapatılamaz.
+
+Performans ve Analiz Çerezleri: Ziyaretçi sayısını ve trafiği anlamamıza yardımcı olur. Hangi sayfaların daha popüler olduğunu ve hataların nerede oluştuğunu bu sayede görürüz.
+
+İşlevsel Çerezler: Dil seçimi, konum tercihi veya yapay zeka asistanı ile yapılan geçmiş etkileşimlerin hatırlanması gibi kişiselleştirme amaçlıdır.
+
+Hedefleme ve Reklam Çerezleri: (Eğer kullanılıyorsa) İlginizi çekebilecek yerel işletmelerin veya içeriklerin sunulması için kullanılır.
+
+3. Çerezleri Neden Kullanıyoruz?
+rotarehber.com olarak çerezleri şu amaçlarla kullanmaktayız:
+
+Kullanıcı Deneyimi: Bölgesel rehberlik hizmetinde size en yakın konumları daha hızlı sunabilmek.
+
+Güvenlik: Kimlik doğrulama sistemlerimizin (NVI/KPS gibi) ve kullanıcı hesaplarının güvenliğini sağlamak.
+
+Yapay Zeka Optimizasyonu: AI asistanının performansını takip etmek ve kullanıcı sorularına verilen yanıtları iyileştirmek.
+
+Analitik: Sitemizin Diyarbakır, Çermik veya diğer bölgelerdeki kullanım yoğunluğunu analiz ederek içerik geliştirmek.
+
+4. Üçüncü Taraf Çerezleri
+Sitemizde Google Haritalar, Insta360 panorama görüntüleyicileri veya yapay zeka API sağlayıcıları gibi üçüncü taraf servisler kullanılabilir. Bu servisler kendi çerez politikalarına sahip olabilirler ve veri toplama süreçleri ilgili sağlayıcıların sorumluluğundadır.
+
+5. Çerezleri Nasıl Kontrol Edebilirsiniz?
+Çerezleri yönetmek sizin elinizdedir. Tarayıcınızın ayarlar kısmından çerezleri tamamen engelleyebilir, silebilir veya sadece belirli sitelere izin verebilirsiniz. Ancak unutulmamalıdır ki, zorunlu çerezlerin kapatılması durumunda sitemizin bazı özellikleri (Örn: Oturum açma, AI asistanı kullanımı) düzgün çalışmayabilir.
+
+6. İletişim
+Çerez politikamızla ilgili her türlü soru için admin@rotarehber.com (veya ilgili e-posta adresiniz) üzerinden bizimle iletişime geçebilirsiniz.

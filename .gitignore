@@ -1,0 +1,5 @@
+
+# Firebase & Secret Keys
+firebase-adminsdk*.json
+google-services.json
+*adminsdk*.json

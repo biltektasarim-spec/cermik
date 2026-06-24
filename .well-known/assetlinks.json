@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rotarehber.app",
+    "sha256_cert_fingerprints": [
+      "36:9E:B5:A5:5B:07:DE:58:AD:09:9E:9B:4D:DF:B2:F6:A0:7A:E3:98:C5:F5:93:22:31:7E:52:D4:B4:2D:98:D8"
+    ]
+  }
+}]

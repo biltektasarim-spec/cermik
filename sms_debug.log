@@ -1,0 +1,256 @@
+[2026-03-24 11:42:08] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 258343
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199636929,"status":"success","quantity":9947,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-24 17:57:48] SMS Request (Action: register):
+Phone: 905424316133
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 574693
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199650120,"status":"success","quantity":9946,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-24 18:56:55] SMS Request (Action: register):
+Phone: 905537700442
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 787235
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199653751,"status":"success","quantity":9945,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-25 10:06:23] SMS Request (Action: forgot):
+Phone: 905327104206
+Sender: FREEMIND
+Message: Sifre sifirlama baglantiniz: https://rotarehber.com/api/../password_reset.php?token=e644834d811508f32a2bd0a5c73f0897ec1477fdcc73afb428c7d6675f426af3
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199683302,"status":"success","quantity":9944,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-25 11:12:07] SMS Request (Action: register):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 853670
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199694637,"status":"success","quantity":9943,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-25 15:18:22] SMS Request (Action: forgot):
+Phone: 905327104206
+Sender: FREEMIND
+Message: Sifre sifirlama baglantiniz: https://rotarehber.com/api/../password_reset.php?token=838c21a27b3007fd1ed91d0c420f006c87af097494ad25a50eb0cc0737a05ee9
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199713369,"status":"success","quantity":9941,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-25 18:46:01] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 989623
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199728113,"status":"success","quantity":9940,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-25 18:46:20] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 554825
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199728131,"status":"success","quantity":9939,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-25 18:46:43] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 672238
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199728157,"status":"success","quantity":9938,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-25 18:47:38] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 950618
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199728207,"status":"success","quantity":9937,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-25 18:49:08] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 253703
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199728342,"status":"success","quantity":9936,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-25 19:22:20] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 139184
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199730304,"status":"success","quantity":9935,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-25 19:27:53] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 475126
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199730591,"status":"success","quantity":9934,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-25 19:28:53] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 936404
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199730665,"status":"success","quantity":9933,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-25 23:46:21] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 630568
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199744837,"status":"success","quantity":9932,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 11:46:29] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 104818
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199767545,"status":"success","quantity":9930,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 12:46:40] SMS Request (Action: google_register):
+Phone: 905349648172
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 331081
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199772015,"status":"success","quantity":9929,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 13:11:24] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 573445
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199773821,"status":"success","quantity":9928,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 13:12:03] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 291518
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199773874,"status":"success","quantity":9927,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 14:01:01] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 511157
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199777442,"status":"success","quantity":9926,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 14:08:33] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 389788
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199778036,"status":"success","quantity":9925,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 14:48:50] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 547667
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199780898,"status":"success","quantity":9924,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 16:09:59] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 691079
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199786867,"status":"success","quantity":9923,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 16:28:13] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 932308
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199788088,"status":"success","quantity":9922,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 16:41:53] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 775253
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199789027,"status":"success","quantity":9921,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 16:43:23] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 277032
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199789138,"status":"success","quantity":9920,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 16:43:58] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 344716
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199789187,"status":"success","quantity":9919,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 17:00:43] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 974362
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199790286,"status":"success","quantity":9917,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 17:08:52] SMS Request (Action: google_login):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 596344
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199790795,"status":"success","quantity":9916,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 18:48:53] SMS Request (Action: google_login):
+Phone: 905424316133
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 532444
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199796715,"status":"success","quantity":9915,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 18:49:24] SMS Request (Action: google_login):
+Phone: 905424316133
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 837853
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199796740,"status":"success","quantity":9914,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+
+[2026-03-26 20:03:28] SMS Request (Action: google_register):
+Phone: 905327104206
+Sender: FREEMIND
+Message: RotaRehber Uygulamasına Hoş Geldiniz. Doğrulama kodunuz : 513896
+Data Type: string
+HTTP Code: 200
+Response Body: {"id":199801516,"status":"success","quantity":9911,"description":"SMS g\u00f6nderimi ba\u015far\u0131yla tamamland\u0131.","numberCount":1,"amount":1}
+

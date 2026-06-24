@@ -1,0 +1,19 @@
+# Güvenlik: uploads klasöründe PHP/script çalıştırılmasını engelle
+# Bu sayede yüklenen dosyalar zararlı kod içerse bile çalışmaz.
+
+<FilesMatch "\.php$">
+    Deny from all
+</FilesMatch>
+
+<FilesMatch "\.(php|php3|php4|php5|php7|php8|phtml|phar|pl|py|cgi|sh|exe|asp|jsp|aspx)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Sadece resim dosyalarına izin ver
+<FilesMatch "\.(jpg|jpeg|png|gif|webp|svg)$">
+    Allow from all
+</FilesMatch>
+
+Options -Indexes -ExecCGI
+AddType text/plain .php .php3 .php4 .php5 .php7 .php8 .phtml .phar
