@@ -4,7 +4,7 @@ workflows:
     max_build_duration: 120
     environment:
       flutter: 3.22.0
-      xcode: latest
+      xcode: 16.4
       cocoapods: default
     working_directory: FLUTTER/rotarehber_app
     scripts:
