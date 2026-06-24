@@ -27,7 +27,7 @@ dependencies:
   webview_flutter: ^4.8.0
   cached_network_image: ^3.3.1
   font_awesome_flutter: 10.7.0
-  mobile_scanner: ^5.1.1
+  mobile_scanner: ^6.0.0
   firebase_analytics: ^11.3.0
   panorama: ^0.4.1
   hive: ^2.2.3
