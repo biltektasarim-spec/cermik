@@ -3,7 +3,7 @@ workflows:
     name: iOS Workflow
     max_build_duration: 120
     environment:
-      flutter: stable
+      flutter: 3.44.3
       xcode: latest
       cocoapods: default
     working_directory: FLUTTER/rotarehber_app
@@ -25,7 +25,7 @@ workflows:
     name: Android Workflow
     max_build_duration: 120
     environment:
-      flutter: stable
+      flutter: 3.44.3
     working_directory: FLUTTER/rotarehber_app
     scripts:
       - name: Get Flutter packages
